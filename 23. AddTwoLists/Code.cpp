@@ -3,8 +3,7 @@ ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* temp=ans;
         int data1,carry=0,x;
         while(l1!=NULL || l2!=NULL || carry!=0)
-        { 
-            
+        {   
             if(l1!=NULL && l2!=NULL )
             {
                 x= (l1->val) + (l2 -> val) +carry;
