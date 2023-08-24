@@ -1,5 +1,5 @@
 # 100DaysofCoding
-I am happy to take on the 100 days of coding challenge
+I am happy to take on the 100 days of coding challenge.
 Every code is written in well structured and clean CPP language.
 
 # Resources
