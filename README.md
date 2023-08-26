@@ -4,7 +4,7 @@ Every code is written in well structured and clean CPP language.
 This repo contains solved DSA problems from Strivers SDE Sheet and Leetcode problems.
 
 # Status
-  - Completed
+  - Completed ✔
 
 # Resources
 
