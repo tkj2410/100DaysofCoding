@@ -3,6 +3,9 @@ I am happy to take on the 100 days of coding challenge.
 Every code is written in well structured and clean CPP language.
 This repo contains solved DSA problems from Strivers SDE Sheet and Leetcode problems.
 
+# Status
+  - Completed
+
 # Resources
 
 * Strivers SDE Sheet
